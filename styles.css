@@ -1,0 +1,31 @@
+#box1 {
+    background-color:red;
+    width:250px;
+    border:ridge;
+    height:250px;
+    float:left;
+}
+#box2 {
+    background-color:blue;
+    width:250px;
+    border:ridge;
+    height:250px;
+    float:left;
+}
+#box3 {
+    background-color:yellow;
+    width:250px;
+    border:ridge;
+    height:250px;
+    float:left;
+}
+#box4{
+    background-color:forestgreen;
+    width:250px;
+    border:ridge;
+    height:250px;
+    float:left;
+}
+#jw {
+   Color:purple;
+}
